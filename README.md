@@ -5,15 +5,15 @@ The descriptive analysis could be used to find the trends and patterns in histor
 
 # Dataset
 
-Dataset  webpage: https://opendata.dc.gov/datasets/DCGIS::crashes-in-dc/about
-Dataset : https://opendata.dc.gov/datasets/crashes-in-dc/explore
+* Dataset  webpage: https://opendata.dc.gov/datasets/DCGIS::crashes-in-dc/about
+* Dataset : https://opendata.dc.gov/datasets/crashes-in-dc/explore
 
 
 # Files
-prepare data 21 nov: contains clean, explore and prepare the data.
-analyze data 26 nov: contains the analytics and statistical models.
-Visualizaitons_nov21: Tableau file contains multiple charts.
-Nov21_datasset: Final cleaned dataset
+* prepare data 21 nov: contains clean, explore and prepare the data.
+* analyze data 26 nov: contains the analytics and statistical models.
+* Visualizaitons_nov21: Tableau file contains multiple charts.
+* Nov21_datasset: Final cleaned dataset
 
 
 
