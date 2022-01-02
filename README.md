@@ -22,9 +22,9 @@ The descriptive analysis could be used to find the trends and patterns in histor
 * To download the all data and work system follow the link: 
 https://u.pcloud.link/publink/show?code=kZ9JxAXZmEIjwmvrtEBhQAdqQMAsi8WppwLy
 
-========================================================================
 
-Contact:
+
+# Contact
 Zaid Altukhi
 zaid@altukhizm.com
 
